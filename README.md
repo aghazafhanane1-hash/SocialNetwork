@@ -55,7 +55,7 @@ Pour tester la discussion instantanée en temps réel et la gestion des utilisat
 
 ### Étape 1 : Connexion du premier utilisateur
 1. Allez sur [http://localhost:5173](http://localhost:5173). Vous êtes automatiquement redirigé vers Keycloak.
-2. Connectez-vous avec `testuser` / `password`.
+2. Connectez-vous avec username = appadmin et password= appadmin.
 3. Vous accédez au chat. Rejoignez par exemple le salon `#general`.
 
 ### Étape 2 : Inscription d'un second utilisateur via le CRUD REST
