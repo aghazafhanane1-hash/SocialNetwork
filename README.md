@@ -41,8 +41,8 @@ Assurez-vous que **Docker** et **Docker Compose** sont installés et démarrés 
 
 ### Comptes prédéfinis
 - **Utilisateur de Test (Social Chat)** :
-  - **Pseudo** : `testuser`
-  - **Mot de passe** : `password`
+  - **Pseudo** : `appadminr`
+  - **Mot de passe** : `appadmin`
 - **Administrateur Keycloak** :
   - **Identifiant** : `admin`
   - **Mot de passe** : `admin`
